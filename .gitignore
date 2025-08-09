@@ -2,4 +2,5 @@
 # .streamlit/secrets.toml
 .streamlit/
 .venv/
-.gitignore/
+
+.gitignore
